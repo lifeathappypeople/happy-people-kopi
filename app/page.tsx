@@ -1,5 +1,3 @@
-export const dynamic = "force-dynamic";
-
 import { supabase } from "../lib/supabase";
 import MenuClient from "./MenuClient";
 
