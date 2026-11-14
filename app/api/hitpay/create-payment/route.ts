@@ -21,7 +21,7 @@ export async function POST(req: Request) {
         email: "test@example.com",
 
         redirect_url:
-          "http://localhost:3000/payment-success",
+          "https://happy-people-kopi-9wx6.vercel.app/payment-success",
       }),
     }
   );
