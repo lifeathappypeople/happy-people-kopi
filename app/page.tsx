@@ -1,5 +1,4 @@
 export const dynamic = "force-dynamic";
-export const fetchCache = "force-no-store";
 
 import { supabase } from "../lib/supabase";
 import MenuClient from "./MenuClient";
